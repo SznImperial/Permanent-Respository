@@ -28,3 +28,56 @@ Welcome to my personal developer portfolio! This website showcases my skills, pr
 - **Version Control:** Git & GitHub
 
 ## Project Structure
+src/
+│
+├── assets/ # Images, logos, icons
+├── components/ # Reusable UI elements
+│ ├── Navbar.jsx
+│ ├── Footer.jsx
+│ ├── Hero.jsx
+│ ├── Skills.jsx
+│ ├── Portfolio.jsx
+│ ├── BlogList.jsx
+│ ├── BlogPost.jsx
+│
+├── pages/ # Page-level components
+│ ├── Home.jsx
+│ ├── About.jsx
+│ ├── PortfolioPage.jsx
+│ ├── Blog.jsx
+│ ├── Contact.jsx
+│
+├── App.jsx
+├── index.js
+└── styles/ # Global styles, variables
+
+## Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/SznImperial/Permanent-Respository.git
+cd Permanent-Respository
+npm install
+npm start
+Usage
+
+Explore different sections like Home, About, Skills, Portfolio, Blog, and Contact.
+
+Submit messages through the contact form (EmailJS must be configured).
+
+View live projects and code via links in the portfolio section.
+
+Read detailed blog posts with “Read More” functionality.
+
+Contact
+
+Email: adetolaabdulkareemayomide@gmail.com
+
+Phone: +2347072495804
+
+Address: 68, Bola Street, Lagos Mainland, Lagos
+
+Social links included in the footer.
+
+License
+
+This project is for personal portfolio purposes. Feel free to fork and adapt for your own use.
